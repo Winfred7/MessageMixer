@@ -18,7 +18,8 @@
 * [Contact](#contact)
 
 # General-Info
-    We want to to package the encryption functions into a module to allow for reusability from andy where or by other developers.
+    We want to to package the encryption functions into a
+     module to allow for reusability from andy where or by other developers.
 
 ## Technology
 
