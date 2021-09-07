@@ -5,9 +5,9 @@
 
 ## Introducton
     The application has 3 encryption methods provided for this service:
-    1. ** Caesor Cipher **
-    2. A ** Symbol Cipher **
-    3. A ** Reverse Cipher **
+    1. Caesor Cipher
+    2. A Symbol Cipher
+    3. A Reverse Cipher 
 
 ### Table Of Contents
 * [General-Info](#general-info)
